@@ -1,0 +1,24 @@
+# Python caches and environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# IDE/editor state
+.vscode/
+.idea/
+
+# Personal video files and generated output
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+*.m4v
+output/
+exports/
+
+# OS files
+.DS_Store
+Thumbs.db
