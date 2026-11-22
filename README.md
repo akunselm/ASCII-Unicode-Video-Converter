@@ -54,6 +54,8 @@ Default quality settings: **450 columns, 8-pixel glyph font size, 5× supersampl
 
 The settings window includes live sliders for rendering quality and font selection.
 
+For a deeper explanation of the glyph selection process and processing pipeline, see [Rendering architecture](docs/RENDERING_PIPELINE.md).
+
 ## How it works
 
 1. Open a video using OpenCV and sample each frame at character-grid resolution.
